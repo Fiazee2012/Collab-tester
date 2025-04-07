@@ -110,7 +110,7 @@ public class Player : MonoBehaviour
             _isGrounded = true;
             _canDoubleJump = false;
             _anim.SetBool("isJumping", false);
-            int a = 0;
+            int a = 1;
         }
     }
 }
